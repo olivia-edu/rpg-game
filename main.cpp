@@ -177,7 +177,7 @@ int main()
     while (cin.get() != '\n') {}
    cout << "\nTEMP: Cool Scene Setting Should Go Here. \n(Press Enter to Continue.)";
    while (cin.get() != '\n') {}
-    cout << "\nTEMP: The first room looks like this (...). There are 3 new doors in the xth room.(...)\n(Press Enter to Continue.)";
+    cout << "\nTEMP: The first room looks like that (...). There are 3 new doors in the xth room.(...)\n(Press Enter to Continue.)";
     while (cin.get() != '\n') {}
 
     investigateDoor();
